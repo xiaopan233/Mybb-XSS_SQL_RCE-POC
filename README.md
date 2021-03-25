@@ -31,7 +31,7 @@ attack_port = 8080
 
 **Usage:**
 
-CVE-2021-27889 is xss. You should inject the following payload in "**New Post Thread**" or "**Reply**" or "**Private Messages**".In this demo,I send the payload to "New Post Thread"
+CVE-2021-27889 is xss. You should inject the following payload in "**New Post Thread**" or "**Reply**" or "**Private Messages**" before do the attack.In this demo,I send the payload to "New Post Thread"
 
 *notice that the **192.168.92.165** is the evil server ip,You should change it.*
 
@@ -43,7 +43,7 @@ CVE-2021-27889 is xss. You should inject the following payload in "**New Post Th
 
 </br>
 
-Now Our evil js **1.js** is injected successful.Then we should wait an Admin browsed this Post with loggined admin page.
+Now Our evil js **1.js** is injected successful.Then we should wait an Admin browsed this Post with loggined admin page cookie.
 
 *Notice that the Admin user have no necessary loggin the forum page.*
 
