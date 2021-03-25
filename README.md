@@ -63,7 +63,7 @@ When the Admin user browsed the evil post,the evil js will do the attack:
 
 </br>
 
-We can recive the information at our attack machine:
+We can receive the information at our attack machine:
 
 ![](./img/3.png)
 
